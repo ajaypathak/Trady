@@ -7,7 +7,7 @@
     <AssemblyTitle>Trady.Analysis</AssemblyTitle>
     <VersionPrefix>3.2.8</VersionPrefix>
     <Authors>Karl Wan</Authors>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>net5.0</TargetFramework>
     <AssemblyName>Trady.Analysis</AssemblyName>
     <PackageId>Trady.Analysis</PackageId>
     <PackageTags>Trady;Technical;Analysis;Finance;Stock</PackageTags>

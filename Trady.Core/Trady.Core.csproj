@@ -7,12 +7,12 @@
     <AssemblyTitle>Trady.Core</AssemblyTitle>
     <VersionPrefix>3.2.9</VersionPrefix>
     <Authors>Karl Wan</Authors>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>net5.0</TargetFramework>
     <AssemblyName>Trady.Core</AssemblyName>
     <PackageId>Trady.Core</PackageId>
     <PackageTags>Trady;Technical;Analysis;Finance;Stock</PackageTags>
     <PackageReleaseNotes>
-    Please refer to https://github.com/lppkarl/Trady/
+      Please refer to https://github.com/lppkarl/Trady/
     </PackageReleaseNotes>
     <PackageProjectUrl>https://github.com/lppkarl/Trady</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/lppkarl/Trady/blob/master/LICENSE</PackageLicenseUrl>

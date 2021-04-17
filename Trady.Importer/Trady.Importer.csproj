@@ -7,7 +7,7 @@
     <AssemblyTitle>Trady.Importer</AssemblyTitle>
     <VersionPrefix>3.2.0</VersionPrefix>
     <Authors>Karl Wan</Authors>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>net5.0</TargetFramework>
     <AssemblyName>Trady.Importer</AssemblyName>
     <PackageId>Trady.Importer</PackageId>
     <PackageTags>Trady;Technical;Analysis;Finance;Stock</PackageTags>
